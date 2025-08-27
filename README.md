@@ -1,4 +1,5 @@
 # 💫 About Me:
+ ![gitartwork](gitartwork.svg)
 🧑‍🎓 I am 2nd year SW student in DTU<br>📘 I'm currently learning web Dev<br>💬 Ask me about C/C++<br>⚡ Fun Fact  : I am lazy but Smart
 
 
