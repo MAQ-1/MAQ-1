@@ -12,5 +12,5 @@
             # Use this username's contribution graph  
             user_name: MAQ-1
             # Text on contribution graph 
-            text: TANMAYKUMAR
+            text: TANMAY
        - uses: jasineri/simple-push-action@v1
